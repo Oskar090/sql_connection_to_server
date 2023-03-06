@@ -61,3 +61,7 @@ app.listen(port, () => {
 })
 
 //Metody http i postman
+//Kartkówka
+//2 endpoint
+//select, pobiera z bazy danych
+//insert do bazy danych
